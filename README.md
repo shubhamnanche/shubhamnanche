@@ -20,4 +20,4 @@ I'm all about pushing the boundaries of what's possible in the digital world. Le
 
 ![Shubham's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shubhamnanche&size_weight=0&count_weight=1&layout=donut&langs_count=20&theme=transparent)
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamnanche&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&title_color=FF7722&icon_color=FFFFFF&text_color=00FF00&layout=compact&rank_icon=github&include_all_commits=true)](https://github.com/shubhamnanche/github-readme-stats)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamnanche&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&title_color=FF7722&icon_color=FFFFFF&text_color=00FF00&layout=compact&rank_icon=github&include_all_commits=true)
